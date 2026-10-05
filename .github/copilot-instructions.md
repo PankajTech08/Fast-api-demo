@@ -1,0 +1,9 @@
+- [x] Verify that the copilot-instructions.md file in the .github directory is created.
+- [x] Clarify Project Requirements: Python learning project with basic structure
+- [x] Scaffold the Project
+- [x] Customize the Project: Added Hello World example
+- [x] Install Required Extensions: Not needed for basic Python
+- [x] Compile the Project: Python doesn't require compilation
+- [x] Create and Run Task
+- [x] Launch the Project
+- [x] Ensure Documentation is Complete
